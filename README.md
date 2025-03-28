@@ -1,5 +1,5 @@
-# Welcome to the Servers@Home Github!
+# This is my fork of the Servers@Home repository!
 
-This space will serve as a home for select code which I want to share with the community to help beginners learn how to get comfortable in the command line.
+This space will serve as a place to tinker with the code to better suit my applications.
 
-For more info on these projects and their use go to the landing page (https://serversatho.me)
+For more info on the source go to: (https://serversatho.me)
